@@ -1,0 +1,23 @@
+---
+name: AP1400/Pipsta
+vendor: Able Systems
+inherits: simple
+notes: B/W thermal printer, 57mm paper width
+features:
+  bitImageRaster: false
+  bitImageColumn: false
+  highDensity: false
+  qrCode: false
+colors:
+  0: black
+media:
+  width:
+    mm: 52
+    pixels: 
+codePages:
+  0: CP437
+  1: CP437
+  2: CP437
+  3: CP437
+  4: CP437
+  
